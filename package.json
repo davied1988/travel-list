@@ -6,7 +6,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-<<<<<<< HEAD
     "axios": "^0.19.2",
     "gulp": "^4.0.2",
     "lazysizes": "^5.2.2",
@@ -14,9 +13,6 @@
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-=======
-    "normalize.css": "^8.0.1"
->>>>>>> our-features
   },
   "devDependencies": {
     "autoprefixer": "^9.6.5",
